@@ -28,6 +28,9 @@
 #top-navbar .navbar-nav button:hover{
     background-color: #8d0a38 !important;
 }
+#carouselExampleSlidesOnly img{
+    height: 90vh;
+}
 #floor-tab .nav-item{
     position: relative;
     left: 0;
@@ -126,6 +129,9 @@
 }
 
 @media (max-width: 575px) {
+    #carouselExampleSlidesOnly img{
+        height: 60vh !important;
+    }
     #floor-tab{
         padding-left: 1rem !important;
         padding-right: 1rem !important;

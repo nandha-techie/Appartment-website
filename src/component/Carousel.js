@@ -7,13 +7,13 @@ const Carousel = ()=>{
         <div id="carouselExampleSlidesOnly" className="carousel slide h-80" data-bs-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                <img src={Banner} className="d-block w-100" style={{height: '90vh'}} alt="..." />
+                <img src={Banner} className="d-block w-100"  alt="..." />
                 </div>
                 <div className="carousel-item">
-                <img src={Img} className="d-block w-100" style={{height: '90vh'}} alt="..." />
+                <img src={Img} className="d-block w-100"  alt="..." />
                 </div>
                 <div className="carousel-item">
-                <img src={Banner} className="d-block w-100" style={{height: '90vh'}} alt="..." />
+                <img src={Banner} className="d-block w-100" alt="..." />
                 </div>
             </div>
         </div>
