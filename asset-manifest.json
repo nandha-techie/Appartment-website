@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d0bba4e.css",
-    "main.js": "/static/js/main.4b1f4a49.js",
-    "static/js/453.950fa6d5.chunk.js": "/static/js/453.950fa6d5.chunk.js",
-    "static/media/img.jpg": "/static/media/img.b1fcb7c0b508300affcd.jpg",
-    "static/media/banner.jpg": "/static/media/banner.2a25bc9ad82b28c90678.jpg",
-    "static/media/intro-bg.jpg": "/static/media/intro-bg.c1deefb4a64eee073ac8.jpg",
-    "static/media/stilt-plan.jpg": "/static/media/stilt-plan.c1a613cebe5e3d76348a.jpg",
-    "static/media/typical-floor-plan.jpg": "/static/media/typical-floor-plan.22fad42c59a3147c3bdd.jpg",
-    "static/media/am-left-img.jpg": "/static/media/am-left-img.601e6d659b676cbe6370.jpg",
-    "static/media/footer-bg.jpg": "/static/media/footer-bg.96edfce75694ffffd7e9.jpg",
-    "index.html": "/index.html",
-    "main.1d0bba4e.css.map": "/static/css/main.1d0bba4e.css.map",
-    "main.4b1f4a49.js.map": "/static/js/main.4b1f4a49.js.map",
-    "453.950fa6d5.chunk.js.map": "/static/js/453.950fa6d5.chunk.js.map"
+    "main.css": "/Appartment-website/static/css/main.bafaa883.css",
+    "main.js": "/Appartment-website/static/js/main.1e9822cd.js",
+    "static/js/453.950fa6d5.chunk.js": "/Appartment-website/static/js/453.950fa6d5.chunk.js",
+    "static/media/img.jpg": "/Appartment-website/static/media/img.b1fcb7c0b508300affcd.jpg",
+    "static/media/banner.jpg": "/Appartment-website/static/media/banner.2a25bc9ad82b28c90678.jpg",
+    "static/media/intro-bg.jpg": "/Appartment-website/static/media/intro-bg.c1deefb4a64eee073ac8.jpg",
+    "static/media/stilt-plan.jpg": "/Appartment-website/static/media/stilt-plan.c1a613cebe5e3d76348a.jpg",
+    "static/media/typical-floor-plan.jpg": "/Appartment-website/static/media/typical-floor-plan.22fad42c59a3147c3bdd.jpg",
+    "static/media/am-left-img.jpg": "/Appartment-website/static/media/am-left-img.601e6d659b676cbe6370.jpg",
+    "static/media/footer-bg.jpg": "/Appartment-website/static/media/footer-bg.96edfce75694ffffd7e9.jpg",
+    "index.html": "/Appartment-website/index.html",
+    "main.bafaa883.css.map": "/Appartment-website/static/css/main.bafaa883.css.map",
+    "main.1e9822cd.js.map": "/Appartment-website/static/js/main.1e9822cd.js.map",
+    "453.950fa6d5.chunk.js.map": "/Appartment-website/static/js/453.950fa6d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0bba4e.css",
-    "static/js/main.4b1f4a49.js"
+    "static/css/main.bafaa883.css",
+    "static/js/main.1e9822cd.js"
   ]
 }
