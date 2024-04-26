@@ -12,7 +12,11 @@ const router = createBrowserRouter([
     path: "/",
     element: <App/>,
   },
-]);
+],
+{
+  basename: "/Appartment-website",
+}
+);
 
 root.render(
   <React.StrictMode>
